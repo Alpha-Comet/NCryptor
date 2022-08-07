@@ -11,3 +11,4 @@ This software allows you to encrypt text into code, that can be further decrypte
   The shared code can be entered here. This will decode the code and turn it back into to orignal text.
 
 ## Installation
+[Download NCryptor](https://github.com/Alpha-Comet/NCryptor/raw/master/Download/ncryptor_setup.exe) and install it on both the systems. You are now end to end encrypted.
